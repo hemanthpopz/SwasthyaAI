@@ -1,0 +1,3 @@
+###
+
+GET http://localhost:3000/users/2/level/2
